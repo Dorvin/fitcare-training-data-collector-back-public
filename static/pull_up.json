@@ -1,0 +1,902 @@
+[
+  {
+    "weight": 50,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 55,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 60,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 65,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 70,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 75,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 80,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 85,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 90,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 95,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 100,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 105,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 110,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 115,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 120,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 125,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 130,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 135,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 140,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  },
+  {
+    "weight": 150,
+    "body_fat": [
+      {
+        "percent": 5,
+        "rep": 30,
+        "challenge": 40
+      },
+      {
+        "percent": 9,
+        "rep": 20,
+        "challenge": 25
+      },
+      {
+        "percent": 12,
+        "rep": 15,
+        "challenge": 20
+      },
+      {
+        "percent": 17,
+        "rep": 12,
+        "challenge": 17
+      },
+      {
+        "percent": 24,
+        "rep": 8,
+        "challenge": 14
+      },
+      {
+        "percent": 29,
+        "rep": 5,
+        "challenge": 8
+      },
+      {
+        "percent": 34,
+        "rep": 2,
+        "challenge": 5
+      },
+      {
+        "percent": 40,
+        "rep": 1,
+        "challenge": 2
+      }
+    ]
+  }
+]
